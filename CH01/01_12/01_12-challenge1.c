@@ -1,5 +1,5 @@
 main program
- 
+
 initialization
 
 initial message
