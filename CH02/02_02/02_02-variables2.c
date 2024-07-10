@@ -8,7 +8,7 @@ int main()
 	int modemOnlineDetect;	/* camel case */
 	
 	/* naughty variable names */
-	char return;			/* 'return' is a keyword */
+	char returnn;			/* 'return' is a keyword */
 	int puts;				/* 'puts' is a function name */
 	float new;				/* 'new' is a C++ reserved word */
 
