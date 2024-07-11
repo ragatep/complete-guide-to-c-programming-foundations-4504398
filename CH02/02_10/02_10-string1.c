@@ -2,7 +2,7 @@
 
 int main()
 {
-	char string[] = "I'm literally a string.\n";
+	char string[] = "\nI'm literally a string.\n";
 
 	puts(string);
 }
