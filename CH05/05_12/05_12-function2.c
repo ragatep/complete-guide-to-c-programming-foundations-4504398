@@ -2,7 +2,7 @@
 
 int funct(void)
 {
-	int a = 0;
+	static int a = 0;
 
 	a += 16;
 	printf("In funct(), A = %d\n",a);
