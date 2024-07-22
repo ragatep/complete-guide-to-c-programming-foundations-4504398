@@ -8,7 +8,10 @@ int main()
 	char full[32];
 
 	/* build the string */
-
+	strcpy(full,first);
+	strcat(full," ");
+	strcat(full,last);
+	
 	printf("Pleased to meet you, %s\n",full);
 
 	return(0);
